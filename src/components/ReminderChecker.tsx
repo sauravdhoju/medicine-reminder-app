@@ -10,7 +10,7 @@ const ReminderChecker = () => {
       medications.forEach((med) => {
         med.times.forEach((time) => {
           if (isTimeMatch(time)) {
-            alert(`💊 Time to take your medication: ${med.name} (${med.dosage})`);
+            alert(`Time to take your medication: ${med.name} (${med.dosage})`);
           }
         });
       });
