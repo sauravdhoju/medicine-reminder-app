@@ -17,7 +17,7 @@ A simple React + TypeScript application to help users manage their medications b
 
 ## Demo
 
-Check out the live app here: [medicine-reminder-saurav.netlify.app](medicine-reminder-saurav.netlify.app)
+Check out the live app here: [https://medicine-reminder-saurav.netlify.app/](https://medicine-reminder-saurav.netlify.app/)
 
 ---
 
