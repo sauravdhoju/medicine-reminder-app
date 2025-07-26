@@ -1,4 +1,4 @@
-import React from 'react';
+
 import MedicationForm from './components/MedicationForm';
 import MedicationList from './components/MedicationList';
 import ReminderChecker from './components/ReminderChecker';

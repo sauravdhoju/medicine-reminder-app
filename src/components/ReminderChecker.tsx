@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import { useMedication } from '../context/MedicationContext';
 import { isTimeMatch } from '../utils/isTimeMatch';
 
