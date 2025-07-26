@@ -1,6 +1,7 @@
 import React from 'react';
 import MedicationForm from './components/MedicationForm';
 import MedicationList from './components/MedicationList';
+import ReminderChecker from './components/ReminderChecker';
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       <h1>Medicine Reminder App 💊</h1>
       <MedicationForm />
       <MedicationList />
+      <ReminderChecker />
     </div>
   );
 };
